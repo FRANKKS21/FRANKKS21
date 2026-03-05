@@ -1,8 +1,12 @@
-# TEC-Francisco-Maldonado-
-<div align="center">
+
 
 <!-- Banner animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Francisco%20Eliud%20Maldonado%20Morales&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+
+<!-- GitCity -->
+<div align="center">
+  <img src="./gitcity-frankks21-landscape.png" alt="Mi GitCity" width="100%" />
+</div>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones+inteligentes;Construyendo+modelos+de+ML+escalables;Visualizando+el+futuro+con+datos;Data+Science+%2B+Full+Stack+Development)](https://git.io/typing-svg)
@@ -10,15 +14,15 @@
 <br/>
 
 <!-- Badges de contacto / redes -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Maldonado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Maldonado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frankks21)
 [![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20sitio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frankks21)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas+al+perfil&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=flat&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=frankks21&label=Visitas+al+perfil&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/frankks21?label=Seguidores&style=flat&color=0e75b6)
 
 </div>
 
@@ -58,10 +62,10 @@ print(me.filosofia())
 
 | 🗂️ Proyecto | 📋 Descripción | 🛠️ Stack | ⭐ |
 |------------|---------------|---------|-----|
-| [**🔮 Predictor de Churn**](https://github.com/tu-usuario/churn-predictor) | Modelo de ML para predecir abandono de clientes con 94% de accuracy | `Python` `XGBoost` `Streamlit` | ⭐ Featured |
-| [**📊 Dashboard Analytics**](https://github.com/tu-usuario/analytics-dashboard) | Plataforma interactiva de visualización de KPIs empresariales en tiempo real | `React` `Next.js` `PostgreSQL` | ⭐ Featured |
-| [**🤖 NLP Sentiment API**](https://github.com/tu-usuario/nlp-sentiment) | API REST para análisis de sentimientos en reseñas con modelos Transformer | `Python` `FastAPI` `HuggingFace` | ⭐ Featured |
-| [**🗃️ ETL Pipeline**](https://github.com/tu-usuario/etl-pipeline) | Pipeline automatizado de extracción, transformación y carga de datos masivos | `Python` `SQL` `Airflow` | — |
+| [**🔮 Predictor de Churn**](https://github.com/frankks21/churn-predictor) | Modelo de ML para predecir abandono de clientes con 94% de accuracy | `Python` `XGBoost` `Streamlit` | ⭐ Featured |
+| [**📊 Dashboard Analytics**](https://github.com/frankks21/analytics-dashboard) | Plataforma interactiva de visualización de KPIs empresariales en tiempo real | `React` `Next.js` `PostgreSQL` | ⭐ Featured |
+| [**🤖 NLP Sentiment API**](https://github.com/frankks21/nlp-sentiment) | API REST para análisis de sentimientos en reseñas con modelos Transformer | `Python` `FastAPI` `HuggingFace` | ⭐ Featured |
+| [**🗃️ ETL Pipeline**](https://github.com/frankks21/etl-pipeline) | Pipeline automatizado de extracción, transformación y carga de datos masivos | `Python` `SQL` `Airflow` | — |
 
 </div>
 
@@ -111,17 +115,17 @@ print(me.filosofia())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64B5F6&icon_color=64B5F6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64B5F6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=frankks21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64B5F6&icon_color=64B5F6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankks21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64B5F6&text_color=c9d1d9"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0d1117&stroke=64B5F6&ring=64B5F6&fire=FF6B6B&currStreakLabel=64B5F6"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=frankks21&theme=tokyonight&hide_border=true&background=0d1117&stroke=64B5F6&ring=64B5F6&fire=FF6B6B&currStreakLabel=64B5F6"/>
 
 <br/>
 
 <!-- Gráfica de actividad -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&bg_color=0d1117&color=64B5F6&line=64B5F6&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=frankks21&bg_color=0d1117&color=64B5F6&line=64B5F6&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -148,7 +152,7 @@ print(me.filosofia())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=frankks21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -172,7 +176,7 @@ print(me.filosofia())
 
 ¿Tienes un proyecto interesante o quieres colaborar? Estoy abierto a nuevas oportunidades.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/frankks21)
 [![Email](https://img.shields.io/badge/Email-Escribirme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-000000?style=for-the-badge&logo=vercel)](https://tu-portfolio.com)
 
